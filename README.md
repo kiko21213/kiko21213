@@ -79,7 +79,7 @@ Tooling         Git · Conventional Commits · GitHub Actions · ethers.js · Py
 
 ### Contact
 
-- 📨 **Email:** feras221vladimir@gmail.com
+- 📨 **Email:** 0xkiko.dev@gmail.com
 - 💬 **Telegram:** [@engineer_web3](https://t.me/engineer_web3)
 
 <sub><i>Languages: English (fluent, async-friendly) · Russian (native)</i></sub>
